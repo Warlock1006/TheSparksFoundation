@@ -2,3 +2,21 @@
     background-color: rgba(12, 17, 16, 0.829);
   
 }
+
+body{
+    background-color: rgba(78, 104, 104, 0.294);
+}
+
+.carousel-inner img{
+   max-height: 30rem;
+   width: 100%;
+
+}
+
+#demo{
+    align-self: center;
+    height: 30rem;
+    width: 70rem;
+    margin: auto;
+    margin-top: 1rem;
+}
